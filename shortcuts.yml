@@ -1,6 +1,9 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
+
+leoo 1: https://dict.leo.org/german-english/<query>
+
 examplekeyword 0: http://www.example.com/
 examplekeyword 1: http://www.example.com/?q=<query>
 examplekeyword 2:
