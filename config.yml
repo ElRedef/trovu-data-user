@@ -1,8 +1,8 @@
 # Documentation:
 # https://trovu.net/docs/users/advanced/#custom-configuration
 namespaces:
-#- o
-#- de
+- o
+- de
 - github: .
   name: my
 defaultKeyword: g 
