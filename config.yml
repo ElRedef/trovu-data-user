@@ -5,6 +5,8 @@ namespaces:
 - de
 - github: .
   name: my
+- name: mydomain
+  url: C:/shortcuts.yml
 # defaultKeyword: g 
 language: de
 country: de
