@@ -5,8 +5,6 @@ namespaces:
 - de
 - github: .
   name: my
-- name: mydomain
-  url: file://fe-c-010uy/C$/daten/shortcuts.yml
 # defaultKeyword: g 
 language: de
 country: de
