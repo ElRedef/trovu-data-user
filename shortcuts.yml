@@ -3,6 +3,7 @@
 
 
 leo 1: https://dict.leo.org/german-english/<query>
+jira 1: https://jira.etas-dev.com/secure/QuickSearch.jspa?searchString=<query>
 
 examplekeyword 0: http://www.example.com/
 examplekeyword 1: http://www.example.com/?q=<query>
